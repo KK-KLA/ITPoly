@@ -72,6 +72,123 @@ const AboutUs = () => {
               </div>
             </div>
           </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10426.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายไพศาล ณ ลำปาง</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10462.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นางสาวนาริน พรมมี</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10466.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายเทวฤทธิ์ วงค์ฉายา</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10476.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นางสาววรัญญา อินชัย</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10477.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายณัฐพงษ์ นามคำ</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10478.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นางสาวธนัตชนก แก้วยศ</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10485.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายศรายุทธ ผ่องแผ้ว</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10486.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายสุรชัย เจริญศรี</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10488.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นางสาวธัญญรัตน์ มาลา</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10489.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายสุรเวศม์ สุวรรณดำรงผล</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10490.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">ว่าที่ร้อยตรีเมธาวิณทร์ เมษาเทียนจันทร์</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/13730.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายจิรวัฒน์ จอมมณี</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/13731.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นายภคพล กองทุม</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </div>
