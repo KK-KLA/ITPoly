@@ -1,0 +1,69 @@
+/* เพิ่มการไล่สี (gradient) จากเขียวไปส้ม */
+.gradient-text {
+    background: linear-gradient(45deg, #32CD32, #FFA500); /* ไล่สีจากเขียวไปส้ม */
+    -webkit-background-clip: text; /* ให้พื้นหลังไล่สีติดกับตัวอักษร */
+    color: transparent; /* ทำให้ข้อความโปร่งใส เพื่อให้เห็นพื้นหลัง */
+    font-weight: bold; /* เพิ่มความหนาของฟอนต์ */
+    font-size: 2.5rem; /* ปรับขนาดฟอนต์ */
+    letter-spacing: 2px; /* เพิ่มระยะห่างระหว่างตัวอักษร */
+  }
+  
+  /* ปรับการจัดระยะห่างใน h2 */
+  h2 {
+    margin-top: 40px;
+  }
+  
+  /* เพิ่มการตกแต่งให้กับข้อความใน card */
+  .custom-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333; /* สีเทาอ่อนสำหรับข้อความ */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* ปรับแต่ง card ให้ดูน่าสนใจ */
+  .custom-card {
+    background-color: #f8f9fa; /* สีพื้นหลังของการ์ด */
+    border: 1px solid #ddd; /* ขอบการ์ด */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* เงาของการ์ด */
+    transition: all 0.3s ease; /* เพิ่มการเปลี่ยนแปลง */
+  }
+  
+  /* ทำให้การ์ดมีการขยายเมื่อ hover */
+  .custom-card:hover {
+    transform: translateY(-5px); /* เลื่อนการ์ดขึ้น */
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15); /* เพิ่มเงา */
+  }
+  
+  /* ปรับรูปภาพใน carousel ให้มีมิติ */
+  .carousel-item img {
+    object-fit: cover;
+    height: 400px; /* กำหนดขนาดความสูงของภาพ */
+    border-radius: 15px; /* ทำมุมให้เป็นมน */
+  }
+  
+  /* เพิ่มระยะห่างด้านบนสำหรับหัวข้อ */
+  h3 {
+    margin-top: 50px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #FFA500;
+  }
+  
+  /* ทำให้ navbar มีมิติ */
+  .navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* เพิ่มเงาให้ carousel control */
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #FFA500; /* ทำให้ปุ่ม prev/next เป็นสีส้ม */
+    border-radius: 50%; /* ทำให้ปุ่มกลม */
+  }
+  
+  /* เพิ่มการจัดรูปแบบข้อความให้สวยงาม */
+  p {
+    font-size: 1.2rem;
+    line-height: 1.7;
+  }
+  

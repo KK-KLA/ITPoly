@@ -1,0 +1,36 @@
+/* Header Styles */
+.header {
+    background-color: #3cb371; /* สีพื้นหลัง */
+    color: #ffffff; /* สีตัวอักษร */
+    padding: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header-container {
+    display: flex;
+    flex-direction: column; /* แยกบรรทัดให้ข้อความทั้งสองอยู่ในแนวตั้ง */
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .header-title {
+    font-size: 2.8rem;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+
+    
+  }
+  .header-title1 {
+    font-size: 1.8rem;
+    color: #f5a623; 
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+
+    
+  }
+  
