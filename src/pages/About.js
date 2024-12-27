@@ -38,28 +38,28 @@ const AboutUs = () => {
         <div className="row">
           <div className="col-md-4">
             <div className="card mb-4 shadow-sm">
-              <img src="https://via.placeholder.com/200" alt="Team Member 1" className="card-img-top" />
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10402.jpg" alt="Team Member 1" className="card-img-top" />
               <div className="card-body">
-                <h5 className="card-title">คุณสมชาย พัฒนาวุฒิ</h5>
-                <p className="card-text text-muted">ผู้ก่อตั้งและ CEO</p>
+                <h5 className="card-title">นางสาวมยุลีย์ พงษ์บุพศิริกุล</h5>
+                <p className="card-text text-muted">หัวหน้าสาขางานเทคโนโลยีสารสนเทศ</p>
               </div>
             </div>
           </div>
           <div className="col-md-4">
             <div className="card mb-4 shadow-sm">
-              <img src="https://via.placeholder.com/200" alt="Team Member 2" className="card-img-top" />
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10439.jpg" alt="Team Member 2" className="card-img-top" />
               <div className="card-body">
-                <h5 className="card-title">คุณหญิง จิตราภรณ์</h5>
-                <p className="card-text text-muted">หัวหน้าฝ่ายพัฒนาเทคโนโลยี</p>
+                <h5 className="card-title">นางสาวณัฐกานต์ ภิรมณ์</h5>
+                <p className="card-text text-muted">รองหัวหน้าสาขาวิชาเทคโนโลยีสารสนเทศ</p>
               </div>
             </div>
           </div>
           <div className="col-md-4">
             <div className="card mb-4 shadow-sm">
-              <img src="https://via.placeholder.com/200" alt="Team Member 3" className="card-img-top" />
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10409.jpg" alt="Team Member 3" className="card-img-top" />
               <div className="card-body">
-                <h5 className="card-title">คุณนิรันดร์ สุขวิทยา</h5>
-                <p className="card-text text-muted">หัวหน้าฝ่ายการตลาด</p>
+                <h5 className="card-title">นางสาวสวิตตา ประทุม</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
               </div>
             </div>
           </div>
