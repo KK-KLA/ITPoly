@@ -63,6 +63,15 @@ const AboutUs = () => {
               </div>
             </div>
           </div>
+          <div className="col-md-4">
+            <div className="card mb-4 shadow-sm">
+              <img src="https://www.lannapoly.ac.th/online/Tea_picture/10421.jpg" alt="Team Member 3" className="card-img-top" />
+              <div className="card-body">
+                <h5 className="card-title">นางสาวธัญญลักษณ์ กันธะ</h5>
+                <p className="card-text text-muted">ครูเทคโนโลยีสารสนเทศ</p>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </div>
