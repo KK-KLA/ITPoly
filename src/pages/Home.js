@@ -24,7 +24,7 @@ export default function Home() {
               <img src="https://www.lannapoly.ac.th/web/assets/img-it-UTNwL-IP.jpeg" className="d-block w-100 img-fluid rounded" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://www.lannapoly.ac.th/web/gallery/20240401-034105.jpg" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t39.30808-6/465978142_1089522303173861_2020056444694595837_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UdXtXmcleq8Q7kNvgGTMJfl&_nc_oc=AdjkpkN9Dgul7pz1J8HtyKPH8feEEv3q_ce66PogH1eal74ZNLyYF7K23f4L1c2Igr_qKcVuhLEnZRi9afrL-4Vu&_nc_zt=23&_nc_ht=scontent.fbkk8-2.fna&_nc_gid=AmZrmjLHD__845Otl5Nvkg1&oh=00_AYAHbiR3CdOCmMEgH1as3QpSIKNLE75lng9xdv_i9hPK3w&oe=67741804" className="d-block w-100 img-fluid rounded" alt="..." />
             </div>
             <div className="carousel-item">
               <img src="https://www.lannapoly.ac.th/web/gallery/20241204-024758.jpg" className="d-block w-100 img-fluid rounded" alt="..." />
