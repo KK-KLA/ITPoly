@@ -22,16 +22,16 @@ export default function Navbar() {
         <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
           <ul className="navbar-nav mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="Home.js">หน้าหลัก</a>
+              <a className="nav-link active" aria-current="page" href="#H">หน้าหลัก</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="About.js">เกี่ยวกับเรา</a>
+              <a className="nav-link" href="#A">เกี่ยวกับเรา</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="Courses.js">หลักสูตร</a>
+              <a className="nav-link" href="#D">หลักสูตร</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="Contact.js">ติดต่อเรา</a>
+              <a className="nav-link" href="#C">ติดต่อเรา</a>
             </li>
           </ul>
         </div>
