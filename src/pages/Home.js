@@ -21,13 +21,13 @@ export default function Home() {
         <div id="carouselExample" className="carousel slide" data-bs-ride="carousel">
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src="https://www.lannapoly.ac.th/web/assets/img-it-UTNwL-IP.jpeg" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/465985343_1089521756507249_4254757350376348131_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lk2rXovn9P8Q7kNvgF8teh6&_nc_oc=AdgzLLdpVulsjg-MpZSE-o8nltpHPLe2qNaRAxpcK4BVBWw04m3siiHc98YBCMAoaDg&_nc_zt=23&_nc_ht=scontent.fcnx3-1.fna&_nc_gid=A8b9ctynLtgwdw-vvziLyc9&oh=00_AYAo71JjvSZTrU4Ww8dH3wJddI_9_2qEKd8VI808KuEQig&oe=677D2854" className="d-block w-100 img-fluid rounded" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t39.30808-6/465978142_1089522303173861_2020056444694595837_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UdXtXmcleq8Q7kNvgGTMJfl&_nc_oc=AdjkpkN9Dgul7pz1J8HtyKPH8feEEv3q_ce66PogH1eal74ZNLyYF7K23f4L1c2Igr_qKcVuhLEnZRi9afrL-4Vu&_nc_zt=23&_nc_ht=scontent.fbkk8-2.fna&_nc_gid=AmZrmjLHD__845Otl5Nvkg1&oh=00_AYAHbiR3CdOCmMEgH1as3QpSIKNLE75lng9xdv_i9hPK3w&oe=67741804" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://scontent.fcnx1-1.fna.fbcdn.net/v/t39.30808-6/465978142_1089522303173861_2020056444694595837_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=h_MMgYojIekQ7kNvgGiv1rl&_nc_oc=AdgWtQBk48vT9Ed3EyqJ_DZ6iAM9P21mB1h71P7eh8Qi4J_gy4sG6Ccue6pyk2BqVg4&_nc_zt=23&_nc_ht=scontent.fcnx1-1.fna&_nc_gid=A_kK3OEg0EtnJ6bv3t9HwMu&oh=00_AYALb2CiGA1qcby8lbDCM-F3fEsvnZybwvSZewSoW06XJw&oe=677D5284" className="d-block w-100 img-fluid rounded" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="https://www.lannapoly.ac.th/web/gallery/20241204-024758.jpg" className="d-block w-100 img-fluid rounded" alt="..." />
+              <img src="https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/466037585_1089522346507190_890584093206479427_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3Eq2yWy7-qAQ7kNvgH2qmXY&_nc_oc=AdgWYKJg-RJQgHaPDzrSakvkH6ORWIIsiNA1OX0uXkg016wGoot6I_615dqE28O8TU0&_nc_zt=23&_nc_ht=scontent.fcnx3-1.fna&_nc_gid=A6Xx73xawKb5xbvxlzyDcIz&oh=00_AYAogQ3yRdWjV_XA-WQMTCDv6wvZFqihBEO--2KRp3uwnQ&oe=677D3B98" className="d-block w-100 img-fluid rounded" alt="..." />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
